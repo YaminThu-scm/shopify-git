@@ -1,0 +1,17 @@
+# 本番環境
+production:
+  password: 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
+  theme_id: "126068949165"
+  store: https://scm-gittest.myshopify.com
+
+# ステージング環境
+staging:
+  password: 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
+  theme_id: "126077829293"
+  store: https://scm-gittest.myshopify.com
+
+# 開発環境
+development:
+  password: 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
+  theme_id: "126077894829"
+  store: https://scm-gittest.myshopify.com
