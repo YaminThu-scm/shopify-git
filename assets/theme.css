@@ -7004,3 +7004,7 @@ hr {
 .blk {
   display: block;
 }
+
+.dev {
+  color: #000;
+}
